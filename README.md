@@ -11,7 +11,7 @@ Using the dataset to find the best model for predicting the next shot will make 
      After all data exploration, filling in missing values.
 <img src = "shot_map.png" width='900' heigh='600'>     
      
-2. Modeling - Classification
+2. Modeling - Classification\
       In this project, I will run following models and find out which model is the best fit for this dataset. (criteria: processing time and accuracy)
       1. KNN classification
       2. Logistic Regression
