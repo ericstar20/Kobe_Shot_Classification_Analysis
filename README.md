@@ -5,7 +5,6 @@ Kobe Bryant is an amazing basketball superstar in the NBA. He marked his retirem
 Using the dataset to find the best model for predicting the next shot will make it or nor.
 
 ## Getting Started
-I used four steps to achieve this submission.
 * 1. Data Cleaning.\
      To polish my data clean skill, I randomly assign missing values into my dataset.
      Then, using histogram and the correlation across the dataset to find the trend or relationships among the dataset.
